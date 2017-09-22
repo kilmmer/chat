@@ -1,4 +1,4 @@
-# chat
+# chat v0.0.2 (beta, first release)
 
 Pequeno chat feito com NodeJS, Express e Socket.io para fins de aprendizado.
 
