@@ -1,7 +1,7 @@
 {
   "name": "chat",
   "version": "0.0.2",
-  "description": "A sample Node.js app using Express ",
+  "description": "Pequeno chat feito com Express, Socket.io e NodeJS para aprender sobre real-time",
   "private": true,
   "author": "Kilmmer Kielblock",
   "license": "ISC",
