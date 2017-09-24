@@ -7,3 +7,6 @@ Algumas melhorias e implementações já estão sendo planejadas e desenvolvidas
 Para quem quiser testá-lo é só baixar e executar o comando npm start na pasta.
 
 Aceito contribuições de desenvolvimento e ideias para implementação.
+
+
+@Pode ser necessário instalar o Express através do comando <code>npm install -S express</code> ou <code>npm install express</code>
